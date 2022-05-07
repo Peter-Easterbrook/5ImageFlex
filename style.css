@@ -102,6 +102,7 @@ select {
   flex: 1;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .panel1 {
